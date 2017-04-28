@@ -1,0 +1,14 @@
+{
+    "name": "wedding-website-server",
+    "version": "0.0.1",
+    "author": "Javier Jiménez",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "dependencies": {
+        "express": "^4.15.2",
+        "body-parser": "^1.17.1",
+        "instagram-node": "^0.5.8",
+        "mongodb": "^2.2.26"
+    }
+}
